@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kinyanjuiprince21
 - 👀 I’m interested in software development, cybersecurity , artificial intelligence , blockchains and techology in general.
 - 🌱 I’m currently learning and focusing on digging deep into java.
-- 💞️ I’m looking to collaborate on any open-source project using java.
+- 💞️ I’m looking to collaborate on any open-source project involving java, artificial intelligence and blockchain technologies.
 - 📫 You can reach me via my email kinyanjuiprince21@gmail.com
 
 <!---
